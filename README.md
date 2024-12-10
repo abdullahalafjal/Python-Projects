@@ -1,6 +1,6 @@
 ## Python-Projects
 
-### 01.Online Banking System
+### 01.  Online Banking System
 
 ### **Overview**
 
@@ -31,7 +31,7 @@ The Online Banking System is a secure, user-friendly application that provides c
 ---
 
 
-### 02.Ticket Management System
+### 02.  Ticket Management System
 
 A web-based application designed to streamline the process of creating, assigning, and resolving support tickets. This system aims to enhance communication and accountability for customer and internal issue resolution.
 
